@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranjithmano13&layout=compact)](https://github.com/ranjithmano13/github-readme-stats)
+[![Mano Ranjith's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranjithmano13)](https://github.com/ranjithmano13/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ranjithmano13)](https://git.io/streak-stats)
+
+![](https://komarev.com/ghpvc/?username=ranjithmano13)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ranjithmano13&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
